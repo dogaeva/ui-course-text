@@ -1,0 +1,63 @@
+.container {
+  width: 80%;
+  padding-top: 3em;
+  padding-left: 5em !important;
+  padding-right: 5em !important;
+}
+
+.info__author {
+  color: rgb(161, 161, 161);
+  font-size: 18px;
+}
+
+.info {
+  padding-top: 1em;
+}
+
+.text {
+  padding-top: 2em;
+}
+
+.text__lead {
+  font-size: 20px;
+  font-family: PT Serif, serif;
+}
+
+.line {
+  border-left: 3px solid rgb(0, 0, 0);
+  padding-left: 18px;
+}
+
+.text__quote {
+  font-size: 24px;
+}
+
+.text__tab {
+  padding-top: 0.6em;
+}
+
+.text__tab-sm {
+  padding-top: 0.5em;
+}
+
+.info__badge {
+  font-weight: 400 !important;
+  font-size: 85% !important;
+  color: rgb(66, 66, 66) !important;
+}
+
+.pink {
+  background-color: rgb(255, 200, 200) !important;
+}
+
+.light-blue {
+  background-color: rgb(161, 202, 255) !important;
+}
+
+.light-green {
+  background-color: rgb(161, 255, 184) !important;
+}
+
+.light-yellow {
+  background-color: rgb(222, 255, 161) !important;
+}
